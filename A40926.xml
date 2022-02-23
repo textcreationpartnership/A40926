@@ -1,0 +1,1341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief discovery of the kingdome of Antichrist and the downfall of it hasteth greatly. With a difference betwixt the ordinances of Christ and of Antichrist. This was written by One the world calleth a Quaker, in March 1653.</title>
+            <author>R. F. (Richard Farnworth), d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40926</idno>
+            <idno type="STC">Wing F472A</idno>
+            <idno type="STC">ESTC R218270</idno>
+            <idno type="EEBO-CITATION">99829879</idno>
+            <idno type="PROQUEST">99829879</idno>
+            <idno type="VID">34326</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34326)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2029:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief discovery of the kingdome of Antichrist and the downfall of it hasteth greatly. With a difference betwixt the ordinances of Christ and of Antichrist. This was written by One the world calleth a Quaker, in March 1653.</title>
+                  <author>R. F. (Richard Farnworth), d. 1666.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"One the world calleth a Quaker" = Richard Farnworth.</note>
+                  <note>Caption title on p. 1 reads: "A discovery of Antichrists Kingdome, and the downfall of it hasteth greatly."; caption title on p. 11 reads: "The difference betweene the ordinance of Christ and of Antichrist.".</note>
+                  <note>Tightly bound and cropped, with some loss of print.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Antichrist --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34326:1"/>
+            <pb facs="tcp:34326:1" rendition="simple:additions"/>
+            <p>A BRIEF DISCOVERY OF THE Kingdome of ANTICHRIST. And the downfall of it haſteth greatly.</p>
+            <p>WITH <hi>A Difference betwixt the Ordinan<g ref="char:EOLhyphen"/>ces of</hi> Chriſt <hi>and of</hi> Antichriſt.</p>
+            <q>
+               <bibl>
+                  <hi>1 THES. 1.3, 4, 5.</hi>
+               </bibl>
+               <p>The Man of ſin, who is exalted above all that is called God, and ſits in the Temple of God, as God ſhewing himſelfe to be God, de<g ref="char:EOLhyphen"/>ceiving the Simple Ones.</p>
+            </q>
+            <p>WISDOME now cryeth out in the Streets, cal<g ref="char:EOLhyphen"/>ling out of <hi>Babylon, Sodom,</hi> and <hi>Egypt,</hi> where our Lord hath been Crucified; and ſpirituall wic<g ref="char:EOLhyphen"/>kedneſſe ie now committed in high places; there<g ref="char:EOLhyphen"/>fore return and hearken to the vioce of Jeſus Chriſt, and turne at his reproofe.</p>
+            <q>
+               <bibl>
+                  <hi>2 THES. 1.4, 5, 6, 7, 8, 9, &amp;c.</hi>
+               </bibl>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Lord is comming in power and great glory, and <hi>Antichriſt</hi> ſhall be conſumed by the breath of his mouth, and the brightneſſe of his coming.</p>
+            </q>
+            <p>
+               <hi>This was written by One the World calleth</hi> A QUAKER, <hi>in</hi> March 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34326:2"/>
+            <pb n="1" facs="tcp:34326:2"/>
+            <head>A Diſcovery of Antichrists King<g ref="char:EOLunhyphen"/>dome, and the downfall of it hasteth greatly.</head>
+            <p>NOw the Kingdome of Jeſus Chriſt is ſetting up in the ſpirits of his people;<note place="margin">Dan. 12.</note> 
+               <hi>And at that time ſhall</hi> Michael <hi>ſtand up, the great Prince which ſtandeth up for the Children of my people,</hi> ſaith the Lord, <hi>and there ſhall be a time of trouble, ſuch as there never was, ſince there was a nation, even to that ſame time, and at that time there ſhall be deliverance, every one ſhall be delivered, that ſhall be found written in the booke of life,</hi> in the day of the day of the Lords power,<note place="margin">Zeph. l. 12.13.</note> 
+               <hi>Dan.</hi> 12 1. <hi>And it ſhall come to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſſe at that time, that I will ſearch</hi> Jeruſalem <hi>with Candles, and puniſh the men that are ſettled upon their Lees, that ſay in their h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>art the Lord will not doe good, neither will he doe evill: Therefore their goods ſhall become a b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oty, and their houſes a deſolation, ther ſhall alſo build houſes but not inha<g ref="char:EOLhyphen"/>bite them; and they ſhall plant vincyrds, but not drinke the wine thereof. The great day of the Lord is neare, it hasteth greatly, even the voice of the day of the Lord: there the great man ſhall cry bitterly.</hi> Zeph. 1.14. Now <hi>the abomination of deſolation spoken of by</hi> Daniel <hi>the Prophet ſtands up; let him that readeth underſtand.</hi>
+               <note place="margin">Mat 24.</note> Now the man of ſinne is revealed, and revealing, even the Son of perdition, who oppoſeth and exalteth himſelfe above all that is called God, and ſitteth in the Temple of God, as God, ſhew<g ref="char:EOLhyphen"/>ing himſelfe to be God, ſpoken of by the Apoſtle, in
+<pb n="2" facs="tcp:34326:3"/>2. <hi>Theſ.</hi> 2.2, 3. and the vialls are to be powred out upon the man of ſin,<note place="margin">Theſ 2.3. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>v. 16.17. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 19.</note> ſpoken of in the <hi>Revelation.</hi>
+            </p>
+            <p>The Pri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſts are the greateſt perſecutors of the truth of God; now where it is made manifeſt in the ſpirits of the people of God, the Lord hath ſent to declare and te<g ref="char:EOLhyphen"/>ſtifie againſt their deceits and deceivableneſſe, whereby they doe deceive the people, and they are raging mad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> becauſe they are diſcovered;<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>v. 16.10, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> and they perſecute, im<g ref="char:EOLhyphen"/>priſon, and petition, and doe all that beaſtly corrupt wills can invent, to keep the Iſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ael<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of God in bon<g ref="char:EOLhyphen"/>dage, that they might ſtill be Lords and Rulers over Gods heritage,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>v. 12.15, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, 17.</note> but though <hi>Gog</hi> and <hi>Magog</hi> joyne in battel againſt the <hi>Lamb,</hi> yet he ſhal prevail and get the vi<g ref="char:EOLhyphen"/>ctory, and the beaſt and falſe Prophet ſhall be caſt into the lake tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> burneth,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>v 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.11, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3, &amp;c.</note> 
+               <hi>Rev.</hi> 19 20. and they that wor<g ref="char:EOLhyphen"/>ſhip the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſt and his Image, and receive his marke in their right hand, or in their foreheads, the ſame ſhall drinke of the wine of the wrath of the Almighty, poured forth into the cup of his indignation, and ſhall be tor<g ref="char:EOLhyphen"/>mented with fire and brimſtone in the preſence of the holy Angels, and in the preſence of the Lambe, and the ſmoake of their torment aſcendeth up for ever and ever; and they ſhall have no reſt day nor night that worſhip the B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt, <hi>Rev.</hi> 14.9, 10, 11.</p>
+            <p>Come out of the beaſtly worſhips God is a Spirit,<note place="margin">Th. 4.23, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> and he will be worſhipped in ſpirit, and the glorious Lord will be unto his a place of broad River and ſtreames of l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 33.21.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.54 13. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eb. 8 <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> and peace, and joy, and rejoicing for ever and ever, and all the children of the Lord are taught of the Lord, hee is Teacher alone by his ſpirit, and cauſeth people to profit by his Miniſtery. Therefore ceaſe who<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly from all your Prieſts,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 2.22. John 2.</note> they are Decivers, and lead you from the teachings of the ſpirit, to obſerve dreames, and fancies of their owne brame, and are the upholders of pride,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 23.30, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> 32.33.</note> coverouſneſſe, and oppreſſion, and never were yet taught themſelves; they are in he ſtate
+<pb n="3" facs="tcp:34326:3"/>and condition that the falſe Prophets were in, all tea<g ref="char:EOLhyphen"/>ching for hire, and are Lords and Rulers over the peo<g ref="char:EOLhyphen"/>ple, and ran but the Lord did never ſend them, as thoſe did, that the Lord ſent his true Prophets to cry out a<g ref="char:EOLhyphen"/>gainſt, as in <hi>Jer.</hi> 23. and <hi>Jer.</hi> 5 30, 31. and <hi>Iſaiah</hi> 56.10, 11. <hi>Ezek</hi> 34. <hi>Mitha</hi> 3.11. <hi>Hoſea</hi> 6.9. As a troop of Robbers wait for a man, ſo the Prieſts they murder in the way by conſent. Now the Scripture is fulſilling,<note place="margin">Hoſ. 6.9.</note> the Beaſt makes warte with the Saints; thoſe beaſtly Prieſts make themſelves manifeſt, that they are of the generation of <hi>Cain,</hi> and are of their Father the Devill, perſecuting and impriſoning the ſervants of the Lord, as the Jewiſh High-Prieſts did. Perſecution is begun here in <hi>York-ſhire,</hi> by the Prieſts of <hi>Baal,</hi> they cannot defend their Miniſtery any wayes, but by an outward Law, when any are moved by the Lord to ſpeake againſt their deceits, they run away, as the Prieſt of <hi>Finningley</hi> did, and he Prieſt of <hi>Arkworth</hi> and others did, and will not ſtand to their floc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, but leave them, but the Scriptures is fulfilling,<note place="margin">Joh. 10.12 13.</note> the hireling fleeth becauſe he is an hireling. See if this be not contrary to that of the true Shepheard, that layeth down his life for the Sheep, <hi>John</hi> 10.11. and 15, 16, 17. verſes.</p>
+            <p>They take the words of the good Shepheard to ſpeak of, but deny to live his life; and they walk con<g ref="char:EOLhyphen"/>trary to the Scripture. See if this be not errour; the true Miniſters of the Goſpel were to take the care of the flock willingly, not by conſtraint, but of a ready mind, and not for filthy lucre; neither were they to be Lords or Rulers over Gods heritage, but they were to be exam<g ref="char:EOLhyphen"/>ples to the Flock, as in 2 <hi>Pet.</hi> 5.1, 2, 3.</p>
+            <p>But theſe are conſtrained by great Parſonages,<note place="margin">Tit. 1.7, 8 1 Tim. 3 1, 2, 3, 4, &amp;c.</note> and fat Benefices, and are Lords and Rulers over Gods He<g ref="char:EOLhyphen"/>ritage, being puff't up in ſcorne and deriſion, pride, and ambition, and ſwell in iniquity, perſecuting, and im<g ref="char:EOLhyphen"/>priſoning the ſervants of the Lord, and act contrary to
+<pb n="4" facs="tcp:34326:4"/>the Scripture, ſhewing the ſpirit of errour, 1 <hi>Joh.</hi> 5. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> As the Prieſt of <hi>Tharniſworth,</hi> when one of his Heare <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that had been from him a while, and went to hear him <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gaine, that he might have ſpoken to that which had n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> beene according to truth; after that he had done, b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſo ſoone as he came into the Idolls Temple he ga<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> over his ſpeaking, and ſooke to him, and had befo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> beene at his houſe to bid him come againe to he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r him and when he went, the Prieſt begun to examine hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he being asked a queſtion, made an anſwer, and f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that was he imp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſoned by him, and hath lyen <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> moſt a yeare, and doth ſtill continue, for ſpeaking <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h as it was made maniſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t to him by the Lord; b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing asked the queſtion two or three times before <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> anſwered: ſee if this be not contrary to that Scriptu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in 1 <hi>Cor.</hi> 4. and ſee if this bee not errour; when <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whole Chu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch were together all might <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peake one <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one, that all might be edifyed; and if any thing was <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vealed to him that ſate by, the firſt was to hold <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> peace,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor 14.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3, &amp; 30, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1, 32, 33.</note> 1 <hi>Cor.</hi> 14.23.30, 31, 32. but this Prieſt a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> contrary to the Scripture, and ſhewes the ſpirit of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rour.</p>
+            <p>With the Prieſt of <hi>Tickhill,</hi> when one was moved <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpeake in the Steeple-houſe, after that hee had end<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his Sermon, he would not ſtand to vindicate himſel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by Scripture, but got him ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t into the ſtocks. See <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this be not Antichriſt; where ever. did Chriſt or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> true Miniſters any ſuch thing? and when he was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the ſtocks, many people, ſcoffing <hi>Iſhmaels</hi> w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> about him, and the rude multitude; and one w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> moved to goe upon the Croſſe to ſpeake to the peopl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and one of thoſe called Church-ward<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Act. 4.1, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, 3. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 5, 6, 7. &amp;. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 17, 18, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 20, 21.</note> threw hi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> downe ſome 13. ſteps high, and then the rude peop<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> threw dirt in his face: ſee if theſe doe not act the ve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſame things that the Jewes did to <hi>Paul,</hi> when they hal<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him out of the Synagogue, and when they ſtruck P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="5" facs="tcp:34326:4"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <hi>Silas,</hi> and ſet them in the ſtocks,<note place="margin">Acts 5.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> 28. to th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 34. Act. 5.40 41, 42. Act. 6. 10 11, 12, 13 Act. 7.52 53, 54, 55 56, 57. Act. 7 58 59. Acts 14.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 2. &amp; 4, 5. ver. 19. Act 16.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 20, 21, 22 23. Gal. 4.29</note> and threatned <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ter</hi> and <hi>John</hi> that they ſhould ſpeake no more the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame of Jeſus, and ſtoned ſome, and impriſoned o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers: and now the ſame things are acted by thoſe that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>of<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe themſelves to be the people of God, as the Jews <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id, but they are found to be in the ſame ſtate and con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion that they were, as their fruits doe make manifeſt. This Prieſt afterwards would not reſt till be had impri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oned the party that ſpoke to him, and filled a paper <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>f lyes, in a Petition that was rejected. See what fruits <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſe are; and the people at <hi>Leeds,</hi> with the Prieſts im<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſoned others, and at <hi>Wakefield</hi> both ſtoned, ſo that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tones flew like bullers in a battell, and ſlet their doggs, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd none looked to ſtill the rage, not ſo much as a Townes Clerke. See what fruits theſe are, whether of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e fleſh or ſpirit, and it will not be denied, but that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey are of the fleſh; then what reformation is there <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rought by the Miniſters of the world? for they that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re in the fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh cannot pleaſe God: and ſo the Scri<g ref="char:EOLhyphen"/>ptures a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e daily fulfilled; they that are after the fleſh, they perſecute them that are after the ſpirit.</p>
+            <p>The 2. Prieſts of <hi>Wakefield</hi> themſelves came by at one time, and when they were ſpoken to, they would not ſtand to prove themſelves. See if theſe be the Mini<g ref="char:EOLhyphen"/>ſters of Chriſt, or of Antichriſt; a good Shepheard layes downe his life for his Sheep. There was one Prieſt <hi>Robbiſon</hi> ſtood up in the Market at <hi>Wakefield</hi> to have maintained himſelfe to have beene a Miniſter of Chriſt, but one taking him by the arme, and hee, the ſaid Prieſt, being proved a lyar in the open Market, ran a<g ref="char:EOLhyphen"/>way, and the people ſet up a ſhouting: Is this the Mi<g ref="char:EOLhyphen"/>niſtry of Chriſt, or of Antichriſt? hold them not up for ſhame.</p>
+            <p>The Prieſt of <hi>Fetherſton,</hi> when one was moved by the Lord to go ſpeak to him,<note place="margin">Acts 13.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 14.15. v<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 50.51.</note> he cauſed that before ever he ſpoke word he ſhould be put in the ſtocks; and the
+<pb n="6" facs="tcp:34326:5"/>Prieſt when he had done,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn 10.1 8, 9, 12, 13.</note> one would then have prov<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him a Theefe and a Robber, but he got away.</p>
+            <p>Theſe Prieſts, with many more in <hi>York-ſhire,</hi> whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is too large to expreſſe in writing, the paſſages of the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with the Prieſts in <hi>Lancaſhire, Weſtmorland, Notingha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-ſhire, Lincoln-ſhire,</hi> and <hi>Darby-ſhire,</hi> where the Lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hath raiſed up any to ſpeake againſt their deceits; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would fill up volumnes, but all ends in perſecution, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Jewiſh High-Prieſts did, when Jeſus Chriſt ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the fleſh; ſo do theſe now, when Jeſus Chriſt co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to be made manifeſt in the ſpiri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of his people, to teſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fie againſt their deceits, wherein they have beene dece<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ved by them, that others may not be led to deſtructi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by them; <hi>For the leaders of the people cauſe them to en<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Iſaiah 3.12. Iſaiah 9.16. <hi>And if the blinde leade <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> blinde, they ſhall both fall into the ditch,</hi> Math<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 15.14.</p>
+            <p>All people, take wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning betime, and hold them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> up, but come out of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir dark Miniſtery, which is <hi>S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dome</hi> and <hi>Egypt,</hi> where the Lord is crucified; they a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> committing ſpirituall wickedneſſe in high places, bo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Prieſts and People;<note place="margin">Hoſ. 4 9. Rev. 18.4, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 6, 7, 8.</note> 
+               <hi>like Prieſts, like People,</hi> Hoſ. 4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Thus ſaith the Lord, <hi>Come out of</hi> B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <hi>my people <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ye be partakers of her plagues: come out of the Ido<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Temple, and out of the Idolls Worſhip; come out of</hi> Bab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lon <hi>with n in your hearts, and touch no uncleane thing, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Lord will receive you,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 6.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 6, 17, 18.</note> 2 Cor. 6.16, 17, 18.</p>
+            <p>The High-Prieſts were ever the greateſt enemies <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Jeſus Chriſt, and they are yet alive to perſecute him <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> where he is made manifeſt in the ſpirits of his peopl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Chriſt is the ſame yeſterday,</hi>
+               <note place="margin">Heb 13.8. Mat. 2.5.</note> 
+               <hi>to day, and for ever,</hi> Heb<g ref="char:punc">▪</g> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 8. The Chiefe Prieſts a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the ſame that they were, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they did then, they ſhew the ſame deede: now; ſee th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Chiefe Prieſts firſt begun to joyne perſecution wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Herod</hi> againſt Chriſt, when he was borne. See <hi>Math.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 5. to the 16. ſee <hi>Mat.</hi> 16.21. The Chiefe Prieſts we<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="7" facs="tcp:34326:5"/>ſore diſpleaſed at him, <hi>Mat.</hi> 21.15, 16. The Chiefe Prieſts and Elders came to queſtion his authority, ver. 23. <hi>Mat.</hi> 20.18, 19. The Chiefe Prieſts condemned him, and delivered him to the Gentiles, to mock him,<note place="margin">Mat. 2 18, 19<g ref="char:punc">▪</g> Mat. 2 14, 15<g ref="char:punc">▪</g> ver. 47</note> and ſcourge him: The Chiefe Prieſts covenanted with <hi>Judas</hi> to betray Chriſt, <hi>Mat.</hi> 26.14, 15. A great multi<g ref="char:EOLhyphen"/>tude came with <hi>Judas</hi> from the Chiefe Prieſts, with ſwords and ſtaves to take Jeſus, ver. 47. and Jeſus was led to the High-Prieſt, where the Scribes and Elders were aſſembled, ver. 57. The Chiefe Prieſts and El<g ref="char:EOLhyphen"/>ders,<note place="margin">ver. 57</note> and all the Councell ſought falſe witneſſe againſt Jeſus to put him to death,<note place="margin">ver. 59 to the</note> ver. 59. at laſt came two falſe witneſſes, then the Chiefe Prieſts adjured him to ſpeak, and when he ſpoke the truth, the Chiefe Prieſt rent his cloathes, and ſaid he ſpoke blaſphemy, 61, 62, 63, 64, 65. truth is blaſphemy to the deceit; when Jeſus was con<g ref="char:EOLhyphen"/>demned to dye by the Chiefe Prieſts, Rulers, and El<g ref="char:EOLhyphen"/>ders of the people, they ſpit in his Face, and ſmote him on the Cheek, and buffeted him, ver. 66, 67.<note place="margin">Mat. 2 66, 67.</note> And thus the Serpent ſpued out his venome then againſt the truth; and the Jewes, Chiefe Prieſts, and Elders are alive yet, to perſecute Chriſt in his Members. This is the ſame generation of <hi>Cain</hi> that perſecutes, a ſeede of evill doers: ſee if theſe doe not deny the Scriptures, and ſhew the ſpirit of errour, and cannot make good their call, but ran and the Lord never ſent them, and have nothing but what they have ſtudied out of Bookes, and Studies; and <hi>the Hireling fleeth becauſe he is an Hireling,</hi> that the Scriptures might be fulfilled, <hi>John</hi> 10.13.</p>
+            <p>
+               <hi>John Cart,</hi> the Prieſt of <hi>Hanſeworth,</hi> when one was moved by the Lord to ſpeak to him, he cauſed him to be taken priſoner; and ſo they all act in the ſame ſtate and condition that the Jewiſh High-Prieſts did, and are enemies both to Jeſus Chriſt and His; for inaſ<g ref="char:EOLhyphen"/>much as they doe it to one of his, they doe it to him,
+<pb n="8" facs="tcp:34326:6"/>and make their refuge to the Popes Law, that wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made to uphold the Popiſh Clergy by, when they di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> uphold the Maſſe made by Queen <hi>Mary;</hi> ſee the Sta<g ref="char:EOLhyphen"/>tute in the firſt of <hi>Mary,</hi> 2. <hi>Aſſ.</hi> 3. <hi>Ch:</hi> and againe ſee i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it be not repealed by <hi>Elizabeth,</hi> in the firſt yeare of he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reigne, 2. <hi>Ch.</hi> laſt clauſe. See <hi>Coke. pla. fol.</hi> 352. Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Nich. Hides</hi> Chiefe Juſtice then in <hi>England</hi> cited, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it was wholly repealed by that of <hi>Elizabeth,</hi> in the firſt yeare of her reigne, 2. chap. laſt clauſe: ſee <hi>Dalton,</hi> 103.104. pag. See if theſe be the Miniſters of Chriſt, or of Antichriſt, that make their refuge to the Popes Law to impriſon by; neither Jeſus Chriſt nor his true Miniſters did ever ſo. Let truth come to light, and deceits and deceivers put to ſhame;<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 33.22.</note> God is judge, Law<g ref="char:EOLhyphen"/>giver, and King.</p>
+            <p>The ſaid Prieſt, <hi>John Cart,</hi> he dealt deceitfully, juſt as <hi>Pilat</hi> did with Chriſt, who ſaid he would waſh his hands in Innocency, for, ſaid he, I will forgive him, but Officers, ſaith he, looke you to your office. <hi>Pilat</hi> and <hi>Herod</hi> both joyne together to perſecute Chriſt in his Saints; many friends went up to have ſpoken with this Prieſt afterwards, but he would neither come at them, nor ſuffer them to come at him, thoſe which had been the chiefe hearers: ſee if the deceits bee not afraid to come to light, for truth ſeekes no corners; therefore love that which is good, and hate that which is evill, every one, and prove your owne worke: ſo ſhall you have joy in your ſelves and not in others,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al. 6.4.</note> 
+               <hi>Gal.</hi> 6.4. prove all things, and hold faſt that which is good, but ceaſe from all your Prieſts, deceivers, blind guides, Hirelings,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r. 23.1, 2</note> Seducers, and Antichriſts, they ſhall never profit you at all; they ran but the Lord never ſent them, hold them not up, the Lord is againſt them, <hi>Ier.</hi> 23.30, 31, 32.</p>
+            <p>The Prieſt of <hi>Doncaſter,</hi> he impriſoned one for asking him a queſtion, and when he was before the Major
+<pb n="9" facs="tcp:34326:6"/>and Juſtices to be examined, the Prieſt fled into the further corner of the houſe, as one <hi>James Nayler</hi> ſpoke to him, and the Prieſt did confeſſe there openly, that he had not attained to that which the party impriſoned by him had done, and deſired the priſoner to pray for him; yet nothing will ſerve but impriſonment. See if this be not Antichriſt, hold them not up, downe with them all, they are all falne backward, and gone out of the way of obedience, and ſelfe-denyall; but they muſt be called to account before the righteous Judge, the Lord of Heaven and Earth, that they may have their tryall: thus ſaith the Lord, Woe to the wicked, it ſhall be ill with them, and they ſhall be rewarded according to their doings, <hi>Iſa.</hi> 3.10.</p>
+            <p>The wicked ſhall be turned into Hell, and all thoſe that forget God, and have their portion in the lake that burneth. The Lord is ſending forth his Angels to gather out of his Kingdome all things that offend; then ſhall the righteous ſhine forth in brightneſſe, in the Kingdome of their Father.</p>
+            <p>The vials are pouring forth,<note place="margin">Rev. 18 7, 8, 9.</note> and the beaſt begins to roare, the Lord is Judge himſelfe, and he will plague the Beaſt, and burne the Whore, and torment the wicked for evermore.</p>
+            <p>Both <hi>Gog</hi> and <hi>Magog</hi> is gathering to battell, as the number of the ſand of the Sea, going on the breadth of the earth, to compaſſe the Camp of the Saints about, and the beloved City, and fire will fall downe from God out of Heaven and devoure them, <hi>Revelations</hi> 20.8, 9, &amp;c.</p>
+            <p>
+               <hi>Bleſſed and holy is he that hath part in the first Reſurrecti<g ref="char:EOLhyphen"/>on, on ſuch the ſecond death hath no power, but they ſhall be Prieſts of God, and of Chriſt, and ſhall reigne with him a thouſand yeares.</hi> Rev. 20.6.</p>
+            <p>
+               <pb n="10" facs="tcp:34326:7"/>
+This was written by a Threſher, that goeth about with his threſhing Inſtrument, labouring where he findes work.</p>
+            <p>
+               <hi>Ariſe</hi> Sion <hi>and threſh with a new threſhing Inſtrument,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſa. 41.14, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lie. 4.13.</note> 
+               <hi>having Teeth.</hi>
+            </p>
+            <p>Thus ſaith the Lord, <hi>Hearken unto me y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtout-hearted that are farre from righteouſneſſe. I bring neare my righteouſneſſe, it ſhall not be for off, and my ſalvation it ſhall not tarry, and I wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> place ſalvation in</hi> Sion <hi>for</hi> Iſrael <hi>my glory<g ref="char:punc">▪</g>
+               </hi> Iſaiah 46.12, 13.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="text">
+            <pb n="11" facs="tcp:34326:7"/>
+            <head>The Difference betweene the Ordinance of Chriſt and of Antichriſt.</head>
+            <p>TAke heede of deſpiſing the Ordinance of Jeſus Chriſt, who hath left it upon record, and alſo wri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth it in the new Law of Righteouſneſſe, in the hearts <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f his people, ſaying,<note place="margin">Heb. 8.10 11. Jer. 31.31 32, 33, 34 Joh. 14.1 Col. 3.4, Joh. 8.44 Coloſ. 3.2, 3. Rom. 8.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Phil. 3.1 19. Luke 12 29, 30, 3 1 Cor. 1 19. 1 Cor. 1 17, 18.</note> 
+               <hi>If ye love me keep my Commande<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ents:</hi> I. love God with all your hearts, 2. forſake your <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſts and vile affections in affecting earthly things, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the Devils Ordinance, ſaith Jeſus Chriſt, <hi>ſet not your <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffections on things which are on the earth, but ſet your affe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tions on things in the heavens;</hi> that is the Ordinance of Chriſt: for ſake your carthly mintledneſſe, for that is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Devils Ordinance; to be carnally minded is death, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the carnall minde is enmity to the Croſs of Chriſt; Chriſt ſaith, Seeke firſt the Kingdome of God, and his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ighteouſneſſe, and all things elſe ſhall be added; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove thy Neighbour as thy ſelfe, and doe unto all men as ye would be done by, and feed the hungry, and cloath the naked, and let the oppreſſed go free, and deny thy ſelfe of thy own wiſdome, and ſelfe-righteouſneſs and conceitedneſſe, and heady high-mindedneſſe, and thy ſelfe-love, and the honour of the would; and forſake all vaine delights, and vaine pleaſures, and take up a daily Croſſe to thy own will and follow me, and learn of me, for I am meeke, and lowly in heart; and ſo ſhall you finde reſt to your ſoules, following through the ſtreight way of obedience and ſelfe-denyall. Theſe things with many other, thou ſhalt finde commanded to be done by the new Law of Righteouſneſſe in thy heart; leave them not undone, Chriſt doth require it of thee, it is his Ordi<g ref="char:EOLhyphen"/>nance.</p>
+            <p>
+               <pb n="12" facs="tcp:34326:8"/>
+The Prieſts of the world are carnal and earthly mind<g ref="char:EOLhyphen"/>ed, coveting after great Benefices, ſwallowing up th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> earth like <hi>Bell,</hi> and the <hi>Dragon,</hi> never have enough, bel<g ref="char:EOLhyphen"/>ly, gods, that doe conſume and devoure the Creation upon their luſts,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>il. 3.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, 19.</note> pride, pleaſures, &amp; heady high-minded<g ref="char:EOLhyphen"/>neſſe, living in luſt and exceſſe; oppreſſors they are, op<g ref="char:EOLhyphen"/>preſſing the poore people, and perſecuting the ſervants of the Lord;<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>il. 3.20.</note> the true Miniſters had their converſation in Heaven, as in <hi>Phil.</hi> 3.20. and they did exhort others to follow their example, and to marke thoſe that did not follow them in life and converſation, <hi>Phil.</hi> 3.17. but theſe walke contrary to them,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe 27.</note> and have loſt their example; herein they walke contrary to the Scripture and ſhews the ſpirit of errour. The Prieſts of the world doe perſecute and impriſon, as the Jewiſh High-Prieſts did impriſon the Apoſtles, which were the true Mini<g ref="char:EOLhyphen"/>ſters of Chriſt, who were blameleſſe in their lives and converſations, and did walk blamleſly, <hi>giving no offen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in any thing, that their miniſtery might not be blamed; but in all things did approve themſelves as the Miniſters of Chriſt, in much patience, afflictions, in neceſsities, in im<g ref="char:EOLhyphen"/>priſonments, in tumults, in watchings, in faſtings,</hi> &amp;c. 2 <hi>Cor.</hi> 6.3, 4, 5. But theſe are contrary that doe impriſon others,<note place="margin">Cor. 6.3 5.</note> and conſume the creatures of God upon thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> luſts, living in pride and exceſſe, and by their cold, dark, barren Miniſtery, ſtadve the ſoules and bodyes o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> others, and walk contrary to the Scriptures, as in thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of 2 <hi>Cor.</hi> 6.3, 4, 5. &amp;c. and that of <hi>Tit.</hi> 1.7, 8. and 1 <hi>Tim.</hi> 3.1, 2, 3. &amp;c. and that of 2 <hi>Pet.</hi> 5.1, 2, 3. The Miniſters of Chriſt are to take care of the flock willingly,<note place="margin">Tim. 3.2, 3, 4. Pet. 5.2, 3.</note> of a rea<g ref="char:EOLhyphen"/>dy minde, not by conſtraint, nor for filthy luere, not to be Lords over Gods heritage; but the Prieſts of th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> world are conſtrained by fat Benefices and great Par<g ref="char:EOLhyphen"/>ſonages; and if they can but have 10, or 20 <abbr>l.</abbr> mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yeare in another place, it will conſtraine them to lea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them where they are to goe to that: ſee if they doe no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="13" facs="tcp:34326:8"/>act contrary to theſe Scriptures, and are guided by the ſpirit of errour,<note place="margin">1 John 4.5, 6.</note> 1 <hi>Iohn</hi> 4.5, 6. The Miniſters of Jeſus Chriſt were to be gentle towards all men, even to thoſe that did oppoſe themſelves, and were not to be Lords and Rulers over Gods beritage, but theſe are, and juſt act all thoſe things that are forbidden:<note place="margin">2 Pet. 5,</note> that which they ſhould not be that they are, that which they ſhould be that they are not, and have loſt their examples in all things: ſee if this be not Antichriſt; who deny the Scripture but the Prieſts of the world? and who cry out of errour more then they? but now they are found out, they cry as the Thiefe doth, that ſayes, turn Thiefe, turn Thiefe, that he he may not be looked at, but ſets the people to looke out at ſome others, and not at him: and ſee if the Prieſts doe not ſo; looke well to them, they can deceive none now, but blind-men, and fooles, that gaze abroad, for wiſe mens eyes are in their heads, in Chriſt that doth enlighten them, and ſo ſhews them their deceits; they that walk contrary to the Scri<g ref="char:EOLhyphen"/>ptures are to be noted, that they may be put to ſhame,<note place="margin">2 Theſ. 5, 6. 1 Tim, 9.10. Iſa. 9.1</note> 2 <hi>Theſ.</hi> 2. Now Prieſts be aſhamed of the evill of your doings, that take the Scriptures to talk of, and make a trade of them for money, which is your <hi>Diana,</hi> and walke contrary to them: but it is fulfilled, <hi>the leaders of the people cauſe them to erre,</hi> Iſa. 9.16. Bluſh for ſhame, and give over deceiving of the people. The Prieſts in the firſt Covenant were to live of the ſacrifices that were of<g ref="char:EOLhyphen"/>fered up, which a people brought in freely,<note place="margin">Rev. 1.6, 7. 1 Cor. 10, 11, 13. 1 Cor. 14, 15. Gal. 1.12.</note> and had no other wayes: they were to wait upon that Miniſtery, and they ſacrificing and waiting at the Altar, taking of the things ſacrificed and offered up, was a type or figure, that they that preach the Goſpell ſhould live on the Go<g ref="char:EOLhyphen"/>ſpell, and be ſet apart wholly for that worke. Now the Goſpell is ſpirituall, and not carnall, and: the carnall man knowes it not, becauſe he doth not underſtand the things of God, who is a ſpirit, and the Goſpell is ſpiri<g ref="char:EOLhyphen"/>tuall
+<pb n="14" facs="tcp:34326:9"/>and none can preach that everlaſting Goſpel but Jeſus Chriſt who lives in our bodyes,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. 1.15, Cor. 3.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.6. Cor. 6.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> that are made the temples of the Holy Ghoſt, and he preacheth to the ſpi<g ref="char:EOLhyphen"/>rits that are in priſon, and he doth it freely, it is his de<g ref="char:EOLhyphen"/>light to do his Fathers will, killing all our luſts, that were ſacrificed too when we lived in the luſt of the fleſh, and he crucifieth them, and works us out of our ſelves in<g ref="char:EOLhyphen"/>to the divine nature,<note place="margin">Cor. 6.17, 18. or. 13.5 l. 1.17. b. 7.24.</note> and his life is in doing us good, being his Fathers will, offering up our requeſts to the Father in us, and for us, that he by his own bloud, the ſpirit of life in us, killing, ſlaying, and crucifying the corrupt nature in us, and working out that which is evill, being made manifeſt in us to deſtroy the workes of the Devill,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h. 2.4, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, 7 <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oh. 3.7,</note> taking our mindes and affections into that which is eternall and inviſible, working us into that which is pure and ſpirituall, that we may praiſe and glo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ify his great and glorious name, being made parta<g ref="char:EOLhyphen"/>kers of his divine nature f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly for his names ſake,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h. 2.13,<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> and not for any deſerts in us, and being brought out of dark<g ref="char:EOLhyphen"/>neſſe into his marvellous light by the guidance of the eternal ſpirit in us,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h. 3.17, &amp;c. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m. 8.10</note> leading us out of bondage into liber<g ref="char:EOLhyphen"/>ty, ſending the ſpirit of his Son into our hearts crying <hi>Abba</hi> Father, which none can do but thoſe that are born againe,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m. 14.16, 17, 18 v. 3.12.49.8. or. 12.</note> having their Fathers name given them at the entrance into the new Covenant, which is inwardly, to the Jewes inwardly, the ſeed of <hi>Abraham</hi> after the ſpirit, being baptiſed by the free ſpirit into that ſpirituall bo<g ref="char:EOLhyphen"/>dy: all that are born againe are redeemed from their vaine converſation to ſerve the Lord in newneſſe of ſpi<g ref="char:EOLhyphen"/>rit in walking humbly before him,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et. 1.23. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oh. 3.1, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, 45.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 9. h. 5.11.</note> being borne againe of water and the ſpirit of the family of <hi>Abraham</hi> the Fa<g ref="char:EOLhyphen"/>ther of the faithfull; we are ſet apart to teſtifie againſt all unfaithfulneſſe, for faith worketh by love, and cau<g ref="char:EOLhyphen"/>ſeth love to run forth to others, to all creatures, even to enemies; and ſo the Goſpel comes to be preached to every creature in living in love with one another, even
+<pb n="15" facs="tcp:34326:9"/>Jeſus Chriſt, which is the Son of his love,<note place="margin">2 Cor. 4 10, 11. Eph. 2.1, Ezek. 37.13, 14. Ezek. 37.23, 24, 2 &amp;c.</note> having his treaſure in earthly veſſells: God manifeſting him. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elſe in our fleſh, and dwelling in us, taking away our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ony hearts which was the cauſe of oppreſſion, which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auſed the creation in us to groan under the burden of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppreſſion by reaſon of that curſed nature which did <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear rule over the pure ſeed in us, which now the Lord <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f his infinite mercy hath delivered us from by the po<g ref="char:EOLhyphen"/>werfull operation of his ſpirit in us, changing our vile <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffections that were ſet altogether on earth and earthly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elights and vanities, and ſo ran after covetouſneſſe,<note place="margin">1 Joh. 4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1 Ioh. 3.2 Ezek. 36 25.26, 2 28.</note> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſatisfy the earthly luſts did oppreſs and burden o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers; but the Lord by the power of the eternall ſpirit in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, the divine operation hath wrought out our corrupt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atures, &amp; engrafted us into the divine nature, being the workmanſhip of God, created in Chriſt Jeſus unto good works,<note place="margin">John 17 6, 7, 8, 9<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.10. Ioh. 14.2 Ioh. 15.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 10, 11, 1 13, 14.</note> which is the fruits and effects of the ſpirit of God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat wrought faith in our hearts, giving us new hearts, do<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng good to all, even to enemies; for faith worketh by love, which love is Ieſus Chriſt the Son of God, who preacheth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Goſpel of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Fathers love in us that we may bee what we do profeſs, not loving in word and in tongue, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the world doth, that lives in diſſimulation, but in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eed and in truth; for he that ſaith he loves God and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ates his Brother, is a Lyar, and the truth is not in him;<note place="margin">1 Iohn 20. Eph. 5.1 Iſa. 58.1</note> but truth dwelling in us, which is Ieſus Chriſt the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower of God that hath reformed and changed our na<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures and diſpoſitions, and hath put in our hearts to exe<g ref="char:EOLhyphen"/>cute, to doe his will, which is to teſſify againſt all de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eits and oppreſſions,<note place="margin">Iſa. 28.1, Iſa. 30.1</note> that are covered under a cloak of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rofeſſion, and no true love but luſt, both to pride and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ovetouſneſſe, anger and envy, lying and ſwearing, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>runkenneſs, oppreſſion,<note place="margin">Mic. 2.1 2, 3,</note> and grinding the faces of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oore, living in luſt and exceſs; ye live in pleaſures <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd wantonneſs upon earth, ye the proud Prieſts,<note place="margin">Iam. 5.5.</note> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ovetous profeſſors, and heady highminded ones that
+<pb n="16" facs="tcp:34326:10"/>fare ſumptuouſly,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el 3.11. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al. 24.1. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 10.</note> feeding upon your dainty diſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Dives</hi> like, and gri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ding the poore to powder in taxa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ons and oppreſſions; you that have got a great deal <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the earth into your hands, which is the Lords, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> provides largely for every creature, but that proud D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vill that rules in your proud fleſh, doth oppreſs and gri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the poore to pieces:<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a. 3.15. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>icah 3.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2, 3.</note> Thus ſaith the Lord, <hi>What me<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ye to beat my people in pieces, and grind the faces of the poo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Dives</hi> fares ſumptuouſly, and poore <hi>Lazarus</hi> is in wa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the rich drink wine in bouls, and the poor ſtarve in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtreets: never like was ſeen in this generation, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord is ſo diſpleaſed at it. Profeſſe no more love <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Iohn 3.7. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at. 5.42 3, 44. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a. 58.6, 7</note> ye p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oud and luſtfull ones; if ye did but kn<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him ye would keep his Commandements, as to do to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> men as ye would be done by, and to love your enemi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and ſeek out the poor &amp; needy, and feed them, and clo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them, that the oppreſſed might go free; you conſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e upon your luſts, pride, and covetouſneſſe, t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> would ſatisfy all that are in wants; pride, and co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>touſneſſe, and the honour of the world, they ſwallow <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all, as <hi>Bell</hi> and the <hi>Dragon</hi> did, and are never ſatisfy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thirſting altogether after the earth, and love of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> world, and the enjoyment of the world for the hon<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of your names, as <hi>Nebu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hadnezar</hi> did, and talke <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, and Chriſt. Profeſſe leſſe, and practice m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you are wiſe to do evil, Prieſts and People, but to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good have no underſtanding; ceaſe to doe evil, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> learn to do well: did you but know Chriſt you wo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not ſuffer him to want in his Members,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſa. 1.17. Mat. 25.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1, 42, 43, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4, 45.</note> you would <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> impriſon him to ſatisfy your luſts; and you that p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fesſſe to be his Miniſters would not ſo much run abou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> get all the rude people, boyes and girles, that k<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not their right hands f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om their left, to put their ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to your Petitions, as the Prieſt of <hi>Sheffield</hi> and others <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cry as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Iewes did, Crucify him, Crucify him, wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he is made manifeſt in ſpirit, and cryes for <hi>Barabba<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+               <pb n="17" facs="tcp:34326:10"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e at liberty, that your luſts may be fed; ye luſtfull ones,<note place="margin">Iſa. 51.2 22, 23. Iſa. 52.</note> Chriſt is riſen, and is ariſing in the hearts of his people <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o teſtifie againſt all deceits and deceivers: repent, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive over deceiving the people, now whilſt you have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime, leſt his judgements come upon you and deſtroy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou with a ſore deſtruction:<note place="margin">Iam. 5.1 3, 4, 5, 6</note> the Lord is now looking <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or fruits<g ref="char:punc">▪</g> and here is nothing brought forth by the high<g ref="char:EOLhyphen"/>eſt profeſſion but wild grapes, as pride, and oppreſſion, and grinding the faces of the poore; <hi>be not deceived,</hi>
+               <note place="margin">Gal. 6.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ia. 4.2, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>God is not mocked, for ſuch as ye ſow ſuch ye ſhall reap; they that ſow to the fleſh, ſhall of the fleſh reap corruption;</hi> and ſee whether there be any other fruits brought forth by the Miniſtery of the world, but fruits of the fleſh, yea or no; Is not pride a fruit of the fleſh? Yes, it is one of the ſeaven abominations that the Lord loatheth, <hi>Prov.</hi> 6.16, 17, 18. and doth it not ſwell in <hi>England,</hi>
+               <note place="margin">Iſa. 3.5 Mal. 3 Iam. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> both in Prieſts, their Wives, and Lawyers? all ſwell in pride which is an abomination to the Lord, and cry out of thoſe that are brought to deny themſelves of it, and walk in humbleneſſe of heart, and lowlineſs of minde, and proud men ſay thoſe deny the Ordinance of Chriſt; but let me ask thee one queſtion,<note place="margin">Iam. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mat. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Whether is pride an Ordinance of God, or an Ordinance of the Devil? It pride be of the Devill, then thou that liveſt in pride and haughtineſs, thou obeyeſt the Devills command, and diſobeyeſt the command of Ieſus Chriſt, who ſaith, <hi>learn of me, for I am meek and lowly in heart;</hi>
+               <note place="margin">Pro. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Iſa. 2 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jer. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> v. 14 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Iſa. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>pride goeth before destruction;</hi> wo to it, woe to it. The Land mourneth by reaſon of pride, both in Gentry and Clergy; the Lord will cut downe the fruitleſſe Tree that cumbers the ground: ſome ſwe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l in pride, and o<g ref="char:EOLhyphen"/>thers goe in nakedneſſe and wants; then thou proud profeſſing Phariſee, how doſt thou obey God and walke in his commands, when thou ſwelleſt with pride, and letteſt others ſtarve for want? when as Ieſus Chriſt ſaith,<note place="margin">Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 45.</note> 
+               <hi>love thy Neighbour as thy ſelfe:</hi> and againe, he that ſaith
+<pb n="18" facs="tcp:34326:11"/>he <hi>loves God and keepeth not his Commandements is a ly<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and the truth is not in him;</hi>
+               <note place="margin">Ioh. 2.4, 6.</note> 
+               <hi>and he that ſaith he is in Chri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ought to walk as he wilked.</hi> Now read the Scripture <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ſee if Ieſus Chriſt was proud, but on the contra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> forbids it,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t. 17. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 20. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 25.41 <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 33, &amp;c</note> and threatne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h woes to it: howle thou prou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and lofty one, thou art a fruitleſs tree, and cumbers th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ground, thou muſt be cut down and caſt into the fire o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the indignation of the Lord, and the Ordinance tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thou talkeſt ſo much of will not ſave thee; it is not he<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſaith Lord,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t. 7.21.</note> Lord, that ſhall enter into the King<g ref="char:EOLunhyphen"/>dome of Heaven,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h. 3.17</note> but he that doth the will of God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Now his will is, that thou ſhouldſt doe to all men as thou wouldſt be done by;<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 5.20.</note> if <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hou wouldſt have the Lord to do good to thee, then thou muſt do good to others, for he that hath this worlds good, and ſeeth his Brother ſtand in need,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 7.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 21.19</note> and ſhut <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth up his bowells of compaſſi<g ref="char:EOLhyphen"/>on from him, how dwelleth the love of God in him? Talk no more of thy O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinances, exc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt thou walkeſt in them, walk in the waies of Ieſus Chriſt who went about doing good, thou ſaveſt well, but thou doeſt con<g ref="char:EOLhyphen"/>trary, thou diſſembling Hypocrite, the Lord knowes thy hypocriſie and diſſimulation; all thy profeſſion is as the curſed fig-tree that bringeth forth no fruit, but leaves: here are faire words, but foule actions, nothing but fruits of the fleſh, <hi>and they that are in the fleſh cannot pleaſe God, Rom.</hi> 8 8. See then what fruits grow on the great tree <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>England,</hi> the flouriſhing tree of profeſſion, is it not now read for the fire? doth it bring forth any thing but cumbers the ground? is not pride the top branch of it? and covetouſneſſe beares a great ſway: there is much of that fruit groweth out of it;<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 15.</note> and ſee if this bee the O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinance of Chriſt or of Antichriſt<g ref="char:punc">▪</g> thou blinde Phariſee,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, 29 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3</note> thy eyes are ſtopt with dirt, dawb'd with pride, and the D vill he is King, and rules in thy heart, and thou cryeſt out of denying the O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinance: thou that liveſt in pride and covetouſneſſe, where art thou got?
+<pb n="19" facs="tcp:34326:11"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>to the Kingdome of Antichriſt, but woe is comming,<note place="margin">Eph. 5.3, 4, 5, 6. Luc. 12.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Luc. 16. 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 14, 15. Hab. 2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pſal. 9.8. Pſa. 10.3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pſal. 7.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 12. Iſa. 56.1 16.</note> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vertouſneſſe is the root of all evill, and there is great <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re of this fruit groweth on this tree of oppreſſion, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at ſtands in the heart of the earth; thou covetous <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ofeſſor, thou proud Prieſt, and Prelate, the Magi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ate bears not the ſword in vain, the Lord is the righte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s Iudge, and all things are naked and bare before <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, he is of purer eyes then to behold iniquity, and he <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll not let the wicked go unpuniſhed; thou cryeſt out <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> denying the Ordinance, but thou art ordained for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtruction, except thou returne to the Lord with ſpeed, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he is comming to plead with all fleſh, by his ſword, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d by fire, and great ſhall be the ſlaine of them, <hi>Iſa.</hi> 6.6. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, 16. and thus ſaith the Lord,<note place="margin">Mal. 4.1.</note> 
+               <hi>Behold the day commeth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall burn as an Oven, and all that are proud, and all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> doe wickedly ſhall be as ſtubble, and the day that com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h ſhall burn and conſume them up, and ſhall leave them <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ber root not branch, Mal.</hi> 4.1. and then they that diſobey <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ordinances of the world,<note place="margin">Mal. 4.2, 3, &amp;c. Mal. 3.15 16. Mal. 2.1, 2 3, 4. Luc. 17.2 2 Cor. 4, 6 1 Cor. 4.5 Mal. 3.17</note> and the Traditions of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n of corrupt hearts, and walk in the feare of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rd, in departing from iniquity, and do profeſſe little, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d poſſeſſe much of the love of God, it will cauſe them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> walk in obedience before him, who is of purer eyes; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d he will ſet up the Kingdome of his Sonne in their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, the miniſtration of the ſpirit; it is ſet up in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e already, and lets them ſee all the deceits of <hi>Baals</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſts and their upholders; but the Lord will cut off <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the land the remnant of <hi>Baal,</hi> and the names of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Chemarims,</hi> the Black-coats, with the Prieſts, <hi>and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall wear no more a rough garment to deceive,</hi>
+               <note place="margin">Zeph. 1.6 7, 8.</note> Zeph. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Zech. 13.4.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Lord will cut off all thoſe that are turned out the way of ſelf-deniall, and are guided by their beaſt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orrupt wills, which lead them into pride, covetouſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>,<note place="margin">Iſa. 3.13, 14, 15. Iſa. 2.22.</note> and oppreſſion, and grinding the faces of the poore, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> denie to walk in the Ordinance of Chriſt, as to feed
+<pb n="20" facs="tcp:34326:12"/>the hungry,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at. 25.34 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5, 36, 37. Mat. 5.48. Mat, 5.20. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſa. 33.10, 11, 12, 13, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4, 15. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſa. 34.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, &amp;c.</note> cloath the naked, and let the oppreſſed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> free; if ye love them that love you, what reward b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you? do not Publicans ſo? <hi>But except your righteouſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> exceed the righteouſneſſe of the Scribes and Phariſees, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall in no wiſe enter into the Kingdome of Heaven.</hi> N<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> profeſſion muſt be tryed, ſo as by fire, and thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> feede on the for bidden fruit, as pride and covetouſne<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> oppreſſion, and grinding the faces of the poore, ly<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and ſwearing, and envying, backbiting, and maſici<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>neſs, ſcoffing, and ſcorning, pleaſures, and wanton<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> revenge, and perſecution, which are fruits of the De<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and ordained for deſtruction;<note place="margin">Gal. 5.7, 8 Col. 3.12, 13, 14.15, 16. Gal. 6.15. Gal. 5.24.</note> 
+               <hi>be not deceived, ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ye ſow, ſuch ſhall ye reap: and know ye not that the unrig<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ous ſhall inherit the Kingdome of Heaven?</hi> 1 Cor. 6.9 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 11. and ſee if there be any other fruit brought fort<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Miniſtry of the world but fruits of the fleſh, w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> proceeds from the ſpirit of errour, as in <hi>Gal.</hi> 5.19 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 21. and they that do ſuch things ſhall not inheri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Kingdome of Heaven. Now all your forms of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhips have not yet wrought a Reformation in you, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Prieſts and Profeſſors in <hi>England,</hi> that makes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deny the Ordinances of Chriſt, as to walk in the ſp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and to bring forth the fruits thereof, <hi>Gal.</hi> 5.22, 23. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for thoſe that are brought to walk and act in righte<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>neſs,<note place="margin">Rev. 6.9, 10, 11.</note> and to bring forth the fruits of the ſpirit, as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> peace, meekneſs, gentleneſs, goodneſs, temperance, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ence,<note place="margin">Rev. 17.13, &amp;c.</note> &amp;c. them you hate, devour in your hearts, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tion, if not to take away their life, yet you would <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> away their liberty, but it is hard to kick again<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pricks; the Scriptures muſt be fulfilled, and the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>filling daily; The Beaſt makes war with the Sa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and he that departeth from iniquity makes himſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> prey for the wild beaſts, <hi>as a Troup of Robbers wait <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> man,</hi>
+               <note place="margin">Rev. 9.19, 20, 21. Hoſ. 6.9.</note> 
+               <hi>ſo the company of Prieſts murder in the way b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſent,</hi> Hoſ. 6.9. like Prieſt, like people, all live i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nature. Run on, and fill up the meaſure of ini<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="21" facs="tcp:34326:12"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with what meaſure ye meat the ſame ſhall be meaſu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to all againe;<note place="margin">Luk. 11.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; 47, 4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 49, 50. Ier. 23 Iude 11 Mal. 4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Iſa. 66 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 16. Iſa. 30.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 3, 4, 5, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 8, 9, 10 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> v. 12, 13, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Iſa. 5<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Zeph. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 9, 10. Ioh. 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rev. 21</note> The Lord will plead the cauſe of all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> himſelfe, wo to the Prieſts and the enemies of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord who act in unrighteouſneſs: the Lord is com<g ref="char:EOLhyphen"/>ing to plead with all fleſh by his ſword, and by fire, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cut off the wicked out of the Land; all your covers of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ofeſſion will not hide you from the preſence of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord, the righteous Judge of Heaven and Earth. Alas, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ore Prieſts, your downefall is at hand, and the leaſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>int out of form ſhall ſcourge the greateſt formaliſt, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord is teacher himſelfe alone, the Lord wil returne to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s people a pure language, and they ſhall all ſerve him <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith one conſent, and there ſhall be but one Shepheard <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd one ſheep-fold, the Lord one, and his Name one, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd he will dwell in theſe earthen Tabernacles of ours, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſit as Refiner: then ſhall the righteous ſhine forth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> brightneſſe in the Kingdome of their Father.</p>
+            <p>Rejoyce ye Saints and righteous ones, the Lord is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udge, Lawgiver and King, and he will ſave you out of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he paw of the Lion and the paw of the Bear, and ſet you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ree from ſlaviſh feare: wo to the wicked, it ſhall be ill with them: though the Beaſt make war with the Saints, yet be of good chear, the Saints ſhall overcome,<note place="margin">Rev. 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 12, 13, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 15, 16.</note> the man that ſits upon the white Horſe with his ſharp ſword ſhall prevaile and get the victory, and deliver out of the paw of the Lion: Prophet, proud Prieſt, Formaliſt, ſelf<g ref="char:EOLhyphen"/>conceited Phariſee, covetous Profeſſor, Hypocrite,<note place="margin">Rev. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 18, 19 <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 21. Mal. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Zech <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and Diſſembler, ſhall all fall together, the Beaſt, and the 24. Elders, Antichriſt, and all his upholders muſt be cut off, and fall down before the power of God, in his poor de<g ref="char:EOLhyphen"/>ſpiſed people, the wicked ſhall be as a ſhell under the ſoals of their feet.</p>
+            <p>The Kingdomes of the world muſt bee the King<g ref="char:EOLhyphen"/>domes of the Lord, and of his Chriſt,<note place="margin">Rev. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 15.</note> and the earth ſhall be full of the knowledge of the Lord, and every man ſhall ſit under his owne Vine, and under his owne
+<pb n="22" facs="tcp:34326:13"/>Fig-tree,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a. 66.12, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and none ſhall make him afraid; <hi>then ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be Judges as at the firſt, and Counſellors as at the begin<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and</hi> Sion <hi>ſhall be redeemed with Iudgement, and he<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>verts with righteouſneſſe, and the deſtruction of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>greſſors, and of the ſinners ſhall be together, and they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> forſake the Lord ſhall be conſumed,</hi> Iſa. 1.26, 27, 28. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>Seek peace, ſeek righteouſneſs, if ſo be that ye m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hid in the day of the Lords wrath.</p>
+            <p>
+               <hi>Let the wicked forſake his way, and the unrighteou<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> his thoughts,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a. 55.7, 8</note> 
+               <hi>and turne to the Lord, and he will have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> upon him; and to our God, for he will abundantly pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> for your ſins and your iniquities have ſeparated be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you and your God.</p>
+            <p>Undo the heavy burthens and let the oppreſſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> free, the Lord doth require it.</p>
+            <p>Written by one that is called a QUAKER, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> To warn thoſe that knowes not their Maker, who o<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> divine nature are not made yet Partaker; that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doe not diſſemble, for God is a conſuming fire, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he is the heart-Searcher and Tryer, and will not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mocked, and you muſt all give account, and tre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and quake before him at <hi>Sinai</hi> the mount; before <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come at <hi>Sion</hi> to ſing, Praiſes and Hallelujahs to <hi>Iſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Keeper and their King.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
